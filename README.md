@@ -1,3 +1,3 @@
 ## zipZoom
 
-- 시연영상 : https://youtu.be/IMYTxDs5wyg
+- openCV 기술과 다양한 딥러닝 알고리즘을 활용해서 조금더 대면수업과 가깝게 느껴지도록 개선한 화상 회의 프로그램
